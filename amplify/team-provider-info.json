@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ehrsystem-dev-201255-authRole",
+      "UnauthRoleArn": "arn:aws:iam::807716263378:role/amplify-ehrsystem-dev-201255-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::807716263378:role/amplify-ehrsystem-dev-201255-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-ehrsystem-dev-201255-deployment",
+      "UnauthRoleName": "amplify-ehrsystem-dev-201255-unauthRole",
+      "StackName": "amplify-ehrsystem-dev-201255",
+      "StackId": "arn:aws:cloudformation:eu-west-1:807716263378:stack/amplify-ehrsystem-dev-201255/8b1e5a80-25ea-11ec-859a-022d9f288f77",
+      "AmplifyAppId": "d33xykfp9ed19a"
+    }
+  }
+}
