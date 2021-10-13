@@ -10,6 +10,11 @@
       "StackName": "amplify-ehrsystem-dev-201255",
       "StackId": "arn:aws:cloudformation:eu-west-1:807716263378:stack/amplify-ehrsystem-dev-201255/8b1e5a80-25ea-11ec-859a-022d9f288f77",
       "AmplifyAppId": "d33xykfp9ed19a"
+    },
+    "categories": {
+      "auth": {
+        "ehrsystem": {}
+      }
     }
   }
 }
