@@ -1,1 +1,3 @@
+# EHR system
+
 This is an electronic health record system built using JavaScript and deployed on Amazon Web Services. The front-end has been built using React and Bootstrap and deployed on AWS Amplify. The back-end is a GraphQL API built using AWS AppSync atop an Amazon DynamoDB database. Amazon Cognito is being used for authentication and authorization. The application is hosted at https://main.d33xykfp9ed19a.amplifyapp.com/.
